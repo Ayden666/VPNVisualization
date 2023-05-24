@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VPN Visualization</string>
+    <string name="overview_screen_title">Connection Overview</string>
+    <string name="overview_destination_node">Destination Node</string>
+    <string name="twitter">Twitter</string>
+    <string name="youtube">YouTube</string>
+    <string name="chrome">Chrome</string>
+    <string name="detail_screen_title">App Detail</string>
+    <string name="back_button">Back</string>
+    <string name="nickname">Nickname</string>
+    <string name="vpn_detail">VPN Detail</string>
+    <string name="ip_address">IP Address</string>
+    <string name="location">Location</string>
+    <string name="close">Close</string>
+    <string name="edit">Edit</string>
+    <string name="vpn_server_list">VPN Server List</string>
+    <string name="edit_server_detail">Edit Server Detail</string>
+    <string name="save">Save</string>
+    <string name="settings_screen_title">Settings</string>
+    <string name="starred_url">Starred URL</string>
+    <string name="manage_connections">Manage connections</string>
+    <string name="manage_starred_urls">Manage Starred URLs</string>
+    <string name="star">Star</string>
+    <string name="unstar">Unstar</string>
+</resources>
